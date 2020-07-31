@@ -11,10 +11,10 @@ Python backend developer from Russia.
 I am developing web projects and frameworks.
 
 * [vkbotfather](https://github.com/wultes/vkbotfather) - Father for creating VK bots.  
-* [vkbotsapi](https://github.com/wultes/vkbotsapi) - Python module for working with VK API
+* [vkbotsapi](https://github.com/wultes/vkbotsapi) - Python module for working with VK API.
 
 # Contact me
-Telegram: [@wultes](t.me/wultes)  
+Telegram: [@wultes](https://t.me/wultes)  
 Gmail: ```workwultes@gmail.com```
 
  
