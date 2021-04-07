@@ -2,10 +2,10 @@
 
 class Me:
   name             : str  = "Kirill"
-  nationality      : str = "Russian"
+  nationality      : str  = "Russian"
   gender           : list = ["he", "his", "Male"]
   hobbys           : list = ["tech stuff", "science", "languages"]
-  work             : str = "grechka.digital"
+  work             : str  = "grechka.digital"
   
 class Stack(BackEndDeveloper):
   languages        : list = ["Python", "JS"]
