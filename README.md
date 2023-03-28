@@ -1,16 +1,28 @@
-### Hi there 👋
+```python
 
-<!--
-**wultes/wultes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Me:
+  name             : str  = "Kirill"
+  nationality      : str  = "Belarusian"
+  gender           : list = ["he", "his", "Male"]
+  hobbys           : list = ["tech stuff", "science", "languages"]
+  job_exp          : str  = "2+ years"
 
-Here are some ideas to get you started:
+class Contacts(Me):
+  telegram         : str = "@wultes"
+  email            : str = "wultesu@gmail.com"
+  
+class Stack(BackEndDeveloper):
+  languages        : list = ["Python", "JS"]
+  frameworks       : dict = {
+                              "Python": [
+                                          "Django",
+                                          "Django Rest Framework",
+                                          "Celery"
+                                        ],
+                              "Js": [
+                                      "React"
+                                    ]
+                            }
+  database         : list = ["MySQL", "PostgreSQL", "Redis"]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
